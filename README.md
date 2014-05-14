@@ -4,7 +4,7 @@
 
 Console2是Windows下一款非常不错的命令行前端工具。但是原版的Console2无法输入中文。[autosquid](https://github.com/autosquid/)发布了可以输入中文的版本。本repo删除了一些无用的文件，并增加了一些加强的脚本。
 
-想要更多地了解Console2及其配置方法，可以参照我写的[博文]()
+想要更多地了解Console2及其配置方法，可以参照我写的[博文](http://raytaylorlin.com/Tech/IDE/console2-better-windows-cmd/)
 
 [官方原版下载地址](http://sourceforge.net/projects/console/)
 
